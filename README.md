@@ -1,4 +1,4 @@
-# VR Medieval Town
+# 🏰 VR Medieval Town 🏰
 
 VR Medieval Town. Have a walk in the past!
 
