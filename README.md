@@ -2,7 +2,13 @@
 
 VR Medieval Town. Have a walk in the past!
 
+![alt text](https://github.com/Ladydiana/VRMedievalTown/blob/master/Screenshot1.png)
 
+![alt text](https://github.com/Ladydiana/VRMedievalTown/blob/master/Screenshot3.png)
+
+![alt text](https://github.com/Ladydiana/VRMedievalTown/blob/master/Screenshot2.png)
+
+---------------------------------------------------------------
 
 Developed using Unity 5.5.1 and GVR SDK 1.40. Also tested on Unity 2017.1.0p4.
 
